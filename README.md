@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
 
-## Getting Started
 
-First, run the development server:
+  <img src="https://github.com/EvandroCalado/jet_solucoes_web/assets/110628201/fa6c7585-d27d-4f75-8b34-4958138b78b5" alt="Logo" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h1 align="center"> Teste técnico Jet Soluções Web </h1>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <b> Tabela com layout responsivo </b></br>
+</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 🧩 Descrição 
 
-## Learn More
+  ***⠀⠀⠀⠀Criar uma aplicação web, responsiva, utilizando as tecnologias propostas, onde seja exibida em telas as versões do data-table, exposto no figma. A idéia nesta avaliação é avaliar a capacidade de resolução de problemas dos candidatos como também a criatividade nesse processo.***
 
-To learn more about Next.js, take a look at the following resources:
+### Requisitos obrigatórios
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- NextJs (AppRouter)
+- TypeScript
+- Tailwind
+- Composition Pattern
+- Componetização
+- GitFlow
+- Deploy na vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### O que será avaliado
 
-## Deploy on Vercel
+- Capacidade de resolução de problemas
+- Organização de código
+- Criatividade
+- Responsividade dos componentes
+- Desempenho da aplicação
+- Utilização das tecnologias obrigatórias
+- Nota de avaliação do Lighthouse (Google)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<br />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<div > 
+
+| [<img src="https://github.com/EvandroCalado/comfy-store/assets/110628201/67c2c7ab-bfc1-441f-a960-ec698fb99559" width=250 ><br><sub> Evandro Calado </sub>](https://www.linkedin.com/in/evandro-calado/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Me chama no [linkedin](https://www.linkedin.com/in/evandro-calado/) 😁*** | 
+|---|---|
+
+
+</div> 
